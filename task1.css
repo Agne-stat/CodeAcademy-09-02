@@ -1,0 +1,33 @@
+.image-example {
+    border-radius: 50%;
+    border: 5px solid yellow;
+    box-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px black;
+}
+
+.code-academy {
+    color: blueviolet;
+    max-width: 100px;
+    background: rgba(235, 197, 191, 0.205);
+    font-size: 30px;
+    font-family: "PT Sans";
+}
+
+#menu{
+    position: absolute;
+    top: 1100px;
+    right: 15px;
+}
+
+.item {
+    color: crimson;
+    text-align: center;
+}
+
+.description {
+    text-align: center;
+    font-style: italic;
+}
+
+hr{
+    border-top: red;
+}
